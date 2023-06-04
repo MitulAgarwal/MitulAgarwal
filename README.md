@@ -7,4 +7,4 @@ Currently pursuing in BTech program in CSE at Manipal Institute of Technology.
 
 ![Mitul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitulagarwal&count_private=false&show_icons=true&theme=radical) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mitulagarwal&repo=Mac-Validator&theme=react)](https://github.com/mitulagarwal/Mac-Validator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mitulagarwal&repo=Mac-Validator&theme=radical)](https://github.com/mitulagarwal/Mac-Validator)
