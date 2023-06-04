@@ -1,4 +1,5 @@
 <h3>Hey There 👋, I'm Mitul</h3>
+I'm Mitul Agarwal, currently enrolled in BTech program in CSE at Manipal Institute of Technology.
 
 
 <h3 align="left">Languages and Tools:</h3>
