@@ -1,4 +1,4 @@
-<h3>Hi 👋, I'm Mitul Agarwal</h3>
+<h3>Hey There 👋, I'm Mitul</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
