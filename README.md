@@ -9,5 +9,5 @@ Currently pursuing in BTech program in CSE at Manipal Institute of Technology.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mitulagarwal&repo=Mac-Validator&theme=radical)](https://github.com/mitulagarwal/Mac-Validator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mitulagarwal&repo=Distributed-File-System&theme=radical)](https://github.com/mitulagarwal/Distributed-File-System)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mitulagarwal&repo=Shell-Of-Quarth&theme=radical)](https://github.com/mitulagarwal/Shell-Of-Quarth)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mitulagarwal&repo=Shell-Of-Qarth&theme=radical)](https://github.com/mitulagarwal/Shell-Of-Qarth)
 
